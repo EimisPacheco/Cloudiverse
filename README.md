@@ -16,7 +16,7 @@ Cloudiverse is a comprehensive multi-cloud learning platform with 5 exciting gam
 
 ![AWS Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games/AWS%20Game%20HUB.png)
 ![AZURE Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games/Azure%20Game%20HUB.png)
-![GCP Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games//GCP%20Game%20HUB.png)
+![GCP Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games/GCP%20Game%20HUB.png)
 
 
 ### 🎯 Cloud Shooter - SkyStrike Mode
