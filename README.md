@@ -75,9 +75,8 @@ Players complete cloud architecture diagrams by dragging the correct services in
 - **Deployment**: Amazon Lightsail for cost-effective hosting
 
 ### **AI-Powered Learning:**
-- **Azure OpenAI**: Generates dynamic architecture scenarios and definitions
-- **Azure Translator**: Multi-language support for global accessibility
-- **Smart Difficulty**: AI-adjusted challenges based on player performance
+- **OpenAI model API called by an AWS Lambda function**: Generates dynamic architecture scenarios and definitions
+- **Amazon Translator Service**: Multi-language support for global accessibility
 
 ### **Development Tools:**
 - **GitHub Copilot**: Accelerated development with AI assistance
