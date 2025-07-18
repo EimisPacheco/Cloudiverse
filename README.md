@@ -1,6 +1,7 @@
 # 🌍 Cloudiverse - Multi-Cloud Learning Platform
 
 **Learn AWS, Azure, and GCP by playing and having fun!**
+![Cloudiverse Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games//main-page-cloud-provider-selection.png)
 
 ## 🎯 Inspiration
 
@@ -8,9 +9,15 @@ I wanted to create a fun and engaging way for people to learn cloud concepts acr
 
 **🎥 See it in action: https://vimeo.com/manage/videos/1070416234**
 
+
 ## 🚀 What Cloudiverse Does
 
 Cloudiverse is a comprehensive multi-cloud learning platform with 5 exciting game modes that work across AWS, Azure, and Google Cloud Platform:
+
+![AWS Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games/AWS%20Game%20HUB.png)
+![AZURE Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games/Azure%20Game%20HUB.png)
+![GCP Game HUB](https://raw.githubusercontent.com/EimisPacheco/hackthon-images-repo/main/aws-cloudiverse-games//GCP%20Game%20HUB.png)
+
 
 ### 🎯 Cloud Shooter - SkyStrike Mode
 This is a browser-based shooting game where players blast cloud service icons from AWS, Azure, or GCP. The goal is to help players recognize cloud services across all providers and associate them with their categories through quick thinking and fast reactions.
